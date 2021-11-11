@@ -1,7 +1,6 @@
 # Monolingual Pre-trained Language Models for Tigrinya
 
-# CHANGE PAPER LINK
-This repository contains resources for the paper ["Monolingual Pre-trained Language Models for Tigrinya"](http://mt.kaist.ac.kr/files/Fitsum_etal_2021_TigrinyaPLMs.pdf) that first appeared at the WiNLP workshop, EMNLP 2021.
+This repository contains resources for the paper ["Monolingual Pre-trained Language Models for Tigrinya"](http://mt.kaist.ac.kr/files/Gaim_etal_2021_TigrinyaPLMs.pdf) that first appeared at the WiNLP workshop, EMNLP 2021.
 
 We pre-train three monolingual language models for Tigrinya on a newly compiled corpus, and compare the performance the models with their multilingual counterparts on two downstream tasks – part-of-speech tagging and sentiment analysis – achieving significantly better results and establishing the state-of-the-art.
 
