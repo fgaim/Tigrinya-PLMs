@@ -56,7 +56,7 @@ Check the `tasks` folder for training and evaluation data.
 
 ## Tigrinya Language Modeling Dataset (TLMD)
 
-We compiled a new dataset for Tigrinya language modeling from various sources across the web including news, blogs, and books; with a total data size of ~0.5GB and over 40 million tokens. The data can be doownload from [here](https://zenodo.org/record/5139094).
+We compiled a new dataset for Tigrinya language modeling from various sources across the web including news, blogs, and books; with a total data size of ~0.5GB and over 40 million tokens. The data can be download from [here](https://zenodo.org/record/5139094).
 
 
 ## Citation
@@ -64,18 +64,17 @@ We compiled a new dataset for Tigrinya language modeling from various sources ac
 If you use the models or the TLMD dataset in your research, please cite as follows:
 
 ```bibtex
-@article{Fitsum2021TiPLMs,
+@inproceedings{Fitsum2021TiPLMs,
   author={Fitsum Gaim and Wonsuk Yang and Jong C. Park},
   title={Monolingual Pre-trained Language Models for Tigrinya},
-  publisher={WiNLP @ EMNLP 2021},
+  booktitle={5th Widening NLP (WiNLP2021) workshop, co-located with the 2021 Conference on Empirical Methods in Natural Language Processing ({EMNLP})},
   year={2021}
 }
 ```
 
-> We would like to thank the authors of the labeled downstream datasets for publicly sharing their work: Yemane Tedla (POS) and Abrhalei Tela (Sentiment Analysis). If you use these datasets, please cite their respective papers.
-
-
 ## References
+
+We would like to thank the authors of the labeled downstream datasets for publicly sharing their work: Yemane Tedla (POS) and Abrhalei Tela (Sentiment Analysis). If you use these datasets, please cite their respective papers.
 
 ```
 Tedla, Y., Yamamoto, K. and Marasinghe, A. 2016.
